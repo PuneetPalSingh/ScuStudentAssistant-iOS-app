@@ -1,0 +1,16 @@
+//
+//  ContactsViewController.h
+//  puneet_project1
+//
+//  Created by Puneet Pal Singh on 3/5/14.
+//  Copyright (c) 2014 puneet singh. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+#import <MessageUI/MessageUI.h>
+#import <MessageUI/MFMailComposeViewController.h>
+
+@interface ContactsViewController : UITableViewController <MFMailComposeViewControllerDelegate,UITableViewDataSource,UITableViewDelegate>
+@property (strong, nonatomic) IBOutlet UITableView *contactsTable;
+- (IBAction)backButton:(id)sender;
+@end

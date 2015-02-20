@@ -7,12 +7,23 @@
 //
 
 #import "AppDelegate.h"
-
+#import "CollectionViewController.h"
+#import "Data.h"
+#import <Parse/Parse.h>
 @implementation AppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    [[UITabBar appearance] setBarTintColor:[UIColor colorWithRed:0.6 green:0 blue:0 alpha:1]];           //changes appearance of TabBar
+    [[UINavigationBar appearance] setBarTintColor:[UIColor colorWithRed:0.6 green:0 blue:0 alpha:1]];    //changes appearance of UINavigationBar
+    
+    [Parse setApplicationId:@"pYJQNyV2yI6TkYn6QJqtncQv9kYloyyltbFP6V6V"
+                  clientKey:@"QkfW6qrvbhOECW3j85OemQNk1LiFxUSU8bxZ3hun"];
+    [PFAnalytics trackAppOpenedWithLaunchOptions:launchOptions];
+    
+    Data *sharedTheData = [Data sharedData];                                                            //loads data from the plist
+    [sharedTheData loadDataFromPlist];                                                
     return YES;
 }
 							

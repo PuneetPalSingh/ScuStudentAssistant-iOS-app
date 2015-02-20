@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Lables</key>
+	<array>
+		<string>Scu Website</string>
+		<string>Ecampus</string>
+		<string>Room Reservation</string>
+		<string>Dining</string>
+		<string>Off-Campus Housing</string>
+		<string>Map</string>
+		<string>Weather</string>
+		<string>Important Contacts</string>
+		<string>About</string>
+	</array>
+	<key>Images</key>
+	<array>
+		<string>11.png</string>
+		<string>22.png</string>
+		<string>33.png</string>
+		<string>44.png</string>
+		<string>55.png</string>
+		<string>66.png</string>
+		<string>77.png</string>
+		<string>88.png</string>
+		<string>99.png</string>
+	</array>
+</dict>
+</plist>
