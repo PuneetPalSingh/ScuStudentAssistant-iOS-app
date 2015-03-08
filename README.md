@@ -3,7 +3,8 @@
 This application has been created to help the students of Santa Clara University to access university's accounts and dining. The map feature has also been added to let students find themselves in the university and weather feature with the help of which students can check the weather before going to university. This app also has the feature of off-campus housing with the help of which students can search the accommodation near university and can post if they have one. The application is connected to the back end server, which stores all the data of off-campus accommodation. 
 # App ScreenShots
 ![Screenshot](https://cloud.githubusercontent.com/assets/6046178/6545639/64505830-c54e-11e4-86f1-89d093096c1d.jpg)
-
+![Screenshot](https://cloud.githubusercontent.com/assets/6046178/6545639/64505830-c54e-11e4-86f1-89d093096c1d.jpg)
+![Screenshot](https://cloud.githubusercontent.com/assets/6046178/6545639/64505830-c54e-11e4-86f1-89d093096c1d.jpg)
 # license
 
 Apache License
