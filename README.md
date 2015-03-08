@@ -2,20 +2,20 @@
 
 This application has been created to help the students of Santa Clara University to access university's accounts and dining. The map feature has also been added to let students find themselves in the university and weather feature with the help of which students can check the weather before going to university. This app also has the feature of off-campus housing with the help of which students can search the accommodation near university and can post if they have one. The application is connected to the back end server, which stores all the data of off-campus accommodation. 
 # App ScreenShots
-![Screenshot](https://cloud.githubusercontent.com/assets/6046178/6545639/64505830-c54e-11e4-86f1-89d093096c1d.jpg)
-![Screenshot](https://cloud.githubusercontent.com/assets/6046178/6545640/64555e02-c54e-11e4-8395-4a15cdab34f8.jpg)
-![Screenshot](https://cloud.githubusercontent.com/assets/6046178/6545641/64558058-c54e-11e4-8372-cdaecbaf774e.jpg)
-![Screenshot](https://cloud.githubusercontent.com/assets/6046178/6545642/6457848e-c54e-11e4-99a1-67005fd6f0f6.jpg)
-![Screenshot](https://cloud.githubusercontent.com/assets/6046178/6545643/645762c4-c54e-11e4-96f7-246657485a13.jpg)
-![Screenshot](https://cloud.githubusercontent.com/assets/6046178/6545644/64580d1e-c54e-11e4-91b4-87ca011c6306.jpg)
-![Screenshot](https://cloud.githubusercontent.com/assets/6046178/6545645/646472e8-c54e-11e4-9779-a2f5234c7890.jpg)
-![Screenshot](https://cloud.githubusercontent.com/assets/6046178/6545647/64677f6a-c54e-11e4-98ea-a3a689d82eb3.jpg)
-![Screenshot](https://cloud.githubusercontent.com/assets/6046178/6545648/6467f2c4-c54e-11e4-94df-c64b09c48809.jpg)
-![Screenshot](https://cloud.githubusercontent.com/assets/6046178/6545646/6467896a-c54e-11e4-9b73-b2b75be1b579.jpg)
-![Screenshot](https://cloud.githubusercontent.com/assets/6046178/6545649/646abe32-c54e-11e4-9a2b-42453f7d141a.jpg)
-![Screenshot](https://cloud.githubusercontent.com/assets/6046178/6545650/646c7f60-c54e-11e4-8d8a-7370d9dfa7e7.jpg)
-![Screenshot](https://cloud.githubusercontent.com/assets/6046178/6545651/647736e4-c54e-11e4-9f2e-3dbad1eb0a3a.jpg)
-![Screenshot](https://cloud.githubusercontent.com/assets/6046178/6545652/647b9e14-c54e-11e4-9da3-4cd74e2c31a0.jpg)
+![](https://cloud.githubusercontent.com/assets/6046178/6545639/64505830-c54e-11e4-86f1-89d093096c1d.jpg)
+![](https://cloud.githubusercontent.com/assets/6046178/6545640/64555e02-c54e-11e4-8395-4a15cdab34f8.jpg)
+![](https://cloud.githubusercontent.com/assets/6046178/6545641/64558058-c54e-11e4-8372-cdaecbaf774e.jpg)
+![](https://cloud.githubusercontent.com/assets/6046178/6545642/6457848e-c54e-11e4-99a1-67005fd6f0f6.jpg)
+![](https://cloud.githubusercontent.com/assets/6046178/6545643/645762c4-c54e-11e4-96f7-246657485a13.jpg)
+![](https://cloud.githubusercontent.com/assets/6046178/6545644/64580d1e-c54e-11e4-91b4-87ca011c6306.jpg)
+![](https://cloud.githubusercontent.com/assets/6046178/6545645/646472e8-c54e-11e4-9779-a2f5234c7890.jpg)
+![](https://cloud.githubusercontent.com/assets/6046178/6545647/64677f6a-c54e-11e4-98ea-a3a689d82eb3.jpg)
+![](https://cloud.githubusercontent.com/assets/6046178/6545648/6467f2c4-c54e-11e4-94df-c64b09c48809.jpg)
+![](https://cloud.githubusercontent.com/assets/6046178/6545646/6467896a-c54e-11e4-9b73-b2b75be1b579.jpg)
+![](https://cloud.githubusercontent.com/assets/6046178/6545649/646abe32-c54e-11e4-9a2b-42453f7d141a.jpg)
+![](https://cloud.githubusercontent.com/assets/6046178/6545650/646c7f60-c54e-11e4-8d8a-7370d9dfa7e7.jpg)
+![](https://cloud.githubusercontent.com/assets/6046178/6545651/647736e4-c54e-11e4-9f2e-3dbad1eb0a3a.jpg)
+![](https://cloud.githubusercontent.com/assets/6046178/6545652/647b9e14-c54e-11e4-9da3-4cd74e2c31a0.jpg)
 # license
 
 Apache License
